@@ -146,6 +146,8 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _DarkColor: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _FireColor: {r: 3.2888424, g: 1.9747622, b: 0.6360496, a: 1}
+    - _FireColor: {r: 3.1245284, g: 1.6477021, b: 0.56005657, a: 1}
+    - _FireColor1: {r: 0.73543566, g: 3.2754714, b: 2.2544765, a: 1}
+    - _FireColor2: {r: 3.335849, g: 2.748519, b: 1.0007544, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
